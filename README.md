@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning MERN STACK</p>
+<p align="left">✨ I am Rishabh Bhatt.<br>
+  📚 I'm currently learning MERN STACK.
+🧷 I pursuing MCA Integrated, seeking for opportunities that can help build an experience.<br>
+🧷 I always appreciate a new technology. <br>
+🧷 And always tries to Learn Something New.</p>
 
 ###
 
