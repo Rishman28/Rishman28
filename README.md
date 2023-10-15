@@ -11,7 +11,7 @@
 ###
 
 <p align="left">✨ I am Rishabh Bhatt.<br>
-  📚 I'm currently learning MERN STACK.
+  📚 I'm currently learning MERN STACK.<br>
 🧷 I pursuing MCA Integrated, seeking for opportunities that can help build an experience.<br>
 🧷 I always appreciate a new technology. <br>
 🧷 And always tries to Learn Something New.</p>
