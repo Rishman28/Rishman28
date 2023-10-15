@@ -64,16 +64,16 @@
   <a href="https://www.linkedin.com/in/rishabh-bhatt-bb4b8a204/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="@Rishabh280403" target="_blank">
+  <a href="[@Rishabh280403](https://twitter.com/Rishabh280403)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
   <a href="https://codepen.io/rishman28" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
-  <a href="im_rb28" target="_blank">
+  <a href="[im_rb28](https://www.instagram.com/im_rb28/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="channel/UCMBDzf8EDHm2I9PPLUH9FJw" target="_blank">
+  <a href="[channel/UCMBDzf8EDHm2I9PPLUH9FJw](https://www.youtube.com/channel/UCMBDzf8EDHm2I9PPLUH9FJw)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
 </div>
