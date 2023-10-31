@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rishabh Bhatt and I'm a Web Developer, from India.</p>
+<p align="left">My name is Rishabh Bhatt and I'm a Web Developer.</p>
 
 ###
 
