@@ -10,11 +10,12 @@
 
 ###
 
-<p align="left">✨ I am Rishabh Bhatt. <br>
+<p align="left">✨ Third-year computer science student, future Web Developer <br>
   📚 I'm currently learning MERN STACK. <br>
+🧷 I typically use HTML/CSS and JavaScript in the client. <br>
 🧷 I always appreciate a new technology. <br>
 🧷 And always tries to Learn Something New. <br>
-🧷 I pursuing MCA Integrated, seeking for opportunities that can help build an experience.</p>
+🧷 I pursuing MCA Integrated, seeking for internships and job opportunities that can help build an experience.</p>
 
 ###
 
