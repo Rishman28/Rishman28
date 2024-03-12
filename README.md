@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Third-year computer science student, future Web Developer <br>
+<p align="left">✨ Third-year computer science student. <br>
   📚 I'm currently learning MERN STACK. <br>
 🧷 I typically use HTML/CSS and JavaScript in the client. <br>
 🧷 I always appreciate a new technology. <br>
