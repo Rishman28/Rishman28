@@ -2,20 +2,12 @@
 
 ###
 
-<p align="left">My name is Rishabh Bhatt and I'm a Junior Front-End Web Developer.</p>
 
 ###
 
 <h2 align="left">About me</h2>
 
 ###
-
-<p align="left">✨ Third-year computer science student. <br>
-  📚 I'm currently learning MERN STACK. <br>
-🧷 I typically use HTML/CSS and JavaScript in the client. <br>
-🧷 I always appreciate a new technology. <br>
-🧷 And always tries to Learn Something New. <br>
-🧷 I pursuing MCA Integrated, seeking for internships and job opportunities that can help build an experience.</p>
 
 ###
 
