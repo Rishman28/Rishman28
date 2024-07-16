@@ -1,17 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-###
-
-<h2 align="left">I code with</h2>
+<h2 align="left">I work with</h2>
 
 ###
 
@@ -57,9 +46,6 @@
   </a>
   <a href="https://twitter.com/Rishabh280403" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://codepen.io/rishman28" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
   <a href="https://www.instagram.com/im_rb28/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
